@@ -1,4 +1,4 @@
-# Recept applikation i swift
+# Recipe app in swift
 
 ## You can view recipes and each detailed window for it
 
